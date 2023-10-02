@@ -4,7 +4,7 @@
     requests - but as <b>fast</b> as possible
     Asynchronous multi-threaded requests via concurrently linked queues. 
   
-    The best template for any fast web scraper.
+    A template for fast web scrapers
   </p>
   
   
