@@ -58,11 +58,12 @@ To adjust scraper rate, ensure your internet is fast enough, the scraper will in
 
 Run the program as is, the debug version does not download from Twitter. Achieved RPS will be shown in the console.
 
-PELASE NOTE THE FOLLOWING:
+PLEASE NOTE THE FOLLOWING:
 - This code only runs properly on Linux, preferably cloud hosted.
 - The program initially takes time to work out which proxies are most successful.
 - If settings in Main.java are too high, the program will fail all requests.
 - The bot uses public proxies, enter proxies in checked_proxies.txt
+- The bot must have significant internet bandwidth.
 
 Troubleshooting
 - Requests drop to 0
