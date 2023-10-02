@@ -1,6 +1,57 @@
+<<<<<<< Updated upstream
 # fast
 Requests- but as *fast* as possible. Asynchronous multi-threaded requests via 1000s of public proxies and concurrently linked queues.
+=======
+<div align="center">
+>>>>>>> Stashed changes
 
+  <img src="assets/logo.png" alt="logo" width="250" height="auto" />  
+  <p>
+    Requests- but as *fast* as possible. Asynchronous multi-threaded requests via concurrently linked queues. 
+  </p>
+  
+  
+<!-- Badges -->
+<p>
+  <a href="https://github.com/couldbejake/fast/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/couldbejake/fast" alt="contributors" />
+  </a>
+
+  <!--
+  <a href="">
+    <img src="https://img.shields.io/github/last-commit/couldbejake/spotify2mp3" alt="last update" />
+  </a>
+  -->
+  
+  <a href="https://github.com/couldbejake/fast/network/members">
+    <img src="https://img.shields.io/github/forks/couldbejake/fast" alt="forks" />
+  </a>
+  
+  <a href="https://github.com/couldbejake/fast/stargazers">
+    <img src="https://img.shields.io/github/stars/couldbejake/fast" alt="stars" />
+  </a>
+  
+  <a href="https://github.com/couldbejake/fast/issues/">
+    <img src="https://img.shields.io/github/issues/couldbejake/fast" alt="open issues" />
+  </a>
+  
+  <!--
+  <a href="https://github.com/couldbejake/awesome-readme-template/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/couldbejake/awesome-readme-template.svg" alt="license" />
+  </a>-->
+</p>
+   
+<h4>
+    <a href="https://github.com/couldbejake/fast/issues">Report Bug</a>
+  <span> · </span>
+    <a href="https://github.com/couldbejake/fast/issues/new">Request Feature</a>
+  <span> · </span>
+    <a href="https://www.buymeacoffee.com/couldbejake">Support this project</a>
+  </h4>
+</div>
+
+<!-- Getting Started -->
+## WIP: Information coming soon
 
 Original Repo: Debug development repo for scraping tweets and market data via RDS. Using optimisations techniques such as (Threading, asynchronous I/O, non-blocking I/O - ConcurrentLinkedQueues, and runnable tasks for making requests and saving tweets to the database. (Rewritten in Java)
 
@@ -26,3 +77,17 @@ Troubleshooting
     - There are no proxies available
     - There are no tasks left
     - You have reached the maximum co-currency
+        - Something may be causing a hang - ie. in the request handler, ie. not updating the coroutine count properly
+
+
+
+
+
+
+
+
+
+
+
+
+
