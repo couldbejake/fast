@@ -1,10 +1,3 @@
-<<<<<<< Updated upstream
-# fast
-Requests- but as *fast* as possible. Asynchronous multi-threaded requests via 1000s of public proxies and concurrently linked queues.
-=======
-<div align="center">
->>>>>>> Stashed changes
-
   <img src="assets/logo.png" alt="logo" width="250" height="auto" />  
   <p>
     Requests- but as *fast* as possible. Asynchronous multi-threaded requests via concurrently linked queues. 
