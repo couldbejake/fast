@@ -1,3 +1,4 @@
+<div align="center">
   <img src="assets/logo.png" alt="logo" width="250" height="auto" />  
   <p>
     Requests- but as *fast* as possible. Asynchronous multi-threaded requests via concurrently linked queues. 
@@ -71,16 +72,4 @@ Troubleshooting
     - There are no tasks left
     - You have reached the maximum co-currency
         - Something may be causing a hang - ie. in the request handler, ie. not updating the coroutine count properly
-
-
-
-
-
-
-
-
-
-
-
-
-
+</div>
