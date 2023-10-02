@@ -1,5 +1,5 @@
 # fast
-Requests- but as *fast* as possible. Asynchronous multi-threaded requests via concurrently linked queues. 
+Requests- but as *fast* as possible. Asynchronous multi-threaded requests via 1000s of public proxies and concurrently linked queues.
 
 
 Original Repo: Debug development repo for scraping tweets and market data via RDS. Using optimisations techniques such as (Threading, asynchronous I/O, non-blocking I/O - ConcurrentLinkedQueues, and runnable tasks for making requests and saving tweets to the database. (Rewritten in Java)
