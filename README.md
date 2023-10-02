@@ -2,7 +2,7 @@
   <img src="assets/logo.png" alt="logo" width="250" height="auto" />  
   <p>
     requests - but as <b>fast</b> as possible
-    Asynchronous multi-threaded requests via concurrently linked queues. 
+    Asynchronous multi-threaded requests via concurrently linked queues written in Java.
   
     A template for fast web scrapers
   </p>
