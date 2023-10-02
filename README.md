@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/logo.png" alt="logo" width="250" height="auto" />  
   <p>
-    Requests- but as *fast* as possible. Asynchronous multi-threaded requests via concurrently linked queues. 
+    Requests- but as <b>fast</b> as possible. Asynchronous multi-threaded requests via concurrently linked queues. 
   </p>
   
   
