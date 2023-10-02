@@ -65,8 +65,9 @@ PLEASE NOTE THE FOLLOWING:
 - The program initially takes time to work out which proxies are most successful.
 - If settings in Main.java are too high, the program will fail all requests.
 - The bot uses public proxies, enter proxies in checked_proxies.txt
-- The bot must have excessive internet bandwidth.
-
+- !!! The bot must have excessive internet bandwidth.
+- On Linux, max open files should be set to a high number
+  
 Troubleshooting
 - Requests drop to 0
     - Maybe you're using too many resources - there's a perfect balance.
