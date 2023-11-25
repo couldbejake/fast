@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/logo.png" alt="logo" width="250" height="auto" />  
   <p>
-    requests - but as <b>fast</b> as possible.<br>Proxied asynchronous multi-threaded requests via concurrent queues written in Java.
+    requests - but as <b>fast</b> as possible.<br>Proxied asynchronous multi-threaded scraper via concurrent queues written in Java.
     
     A template for fast web scrapers
   </p>
